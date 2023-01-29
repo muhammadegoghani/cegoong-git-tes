@@ -1,2 +1,2 @@
 # cegoong-git-tes
-repo unyuk mencoba git remote
+repo untuk mencoba git remote
